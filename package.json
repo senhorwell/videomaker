@@ -1,0 +1,22 @@
+{
+  "name": "videomaker",
+  "version": "1.0.0",
+  "description": "Projeto que cria automaticamente videos para o tiktok",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellwlds/videomaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellwlds/videomaker/issues"
+  },
+  "homepage": "https://github.com/wellwlds/videomaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
